@@ -5,7 +5,7 @@ in AI-powered recruitment systems, focusing on international graduates
 in the UK labour market.
 
 ## Overview
-This dissertation examines whether automated CV screening tools treat 
+This approach examines whether automated CV screening tools treat 
 candidates fairly, with particular focus on visa sponsorship status, 
 name origin, and keyword optimisation as structural barriers in UK hiring.
 It contributes to international debates on algorithmic fairness by 
