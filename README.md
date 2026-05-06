@@ -1,21 +1,33 @@
-# AI Fairness in Recruitment
+# IBM Workforce Analytics — AI Impact on UK Labour Market
 
-An investigation into fairness and accountability in AI-driven recruitment systems, examining how algorithmic decision-making intersects with systemic bias, legal compliance, and candidate transparency.
+Analysis of AI-driven job displacement and skill gaps across the UK, 
+with reskilling recommendations for IBM SkillsBuild.
 
 ## Overview
-This project analyses the impact of automated CV screening tools on different candidate groups, with a focus on identifying where bias enters the process and what the regulatory implications are.
+This project analyses UK Government workforce datasets to identify which 
+sectors, regions, and demographics are most at risk from AI-driven 
+automation, and maps these to IBM SkillsBuild training recommendations.
 
-## Key Themes
-- Algorithmic bias and proxy discrimination in ATS systems
-- Visa sponsorship as a structural barrier in keyword-based screening
-- Candidate perceptions of fairness and transparency
-- Legal and ethical implications of AI adoption in hiring
+## Dataset
+UK Government Labour Market Statistics — spanning 4 nations, 11 regions, 
+37 districts, 22 industries, and 9 occupation types.
 
-## Methodology
-Mixed-methods approach combining literature synthesis, audit experiments, and survey analysis to evaluate the impact of candidate attributes on automated screening outcomes.
+## Procedure
+- Built ETL pipelines in Python (Pandas) and Power Query to extract, 
+  clean, and transform raw workforce data
+- Performed exploratory analysis to identify skill gaps and employment 
+  trends by region, gender, industry, and occupation
+- Built an interactive Power BI semantic model using a 1:M relational 
+  schema with DAX functions for aggregations and filtering
+- Produced dashboards filterable by region, gender, job type, and year
+- Delivered strategic reskilling recommendations aligned to IBM SkillsBuild
 
 ## Tools
-Python, Pandas, NumPy, Matplotlib, statistical analysis, survey design
+Python, Pandas, Matplotlib, Power BI, Power Query, DAX, Microsoft Excel
+
 
 ## Key Finding
-Keyword-based ATS systems introduce measurable bias against international candidates and those with non-standard CV formats, with implications for regulatory compliance and responsible AI adoption.
+Health and Social Work is projected to see the highest net job growth 
+from AI by 2035, while Manufacturing and Engineering face the greatest 
+displacement risk. Reskilling programmes should be regionally targeted 
+based on qualification levels and industry concentration.
