@@ -1,6 +1,6 @@
 # AI Recruitment Fairness — UK Job Market
 
-MSc Dissertation: A mixed-methods investigation into bias and fairness 
+ A mixed-methods investigation into bias and fairness 
 in AI-powered recruitment systems, focusing on international graduates 
 in the UK labour market.
 
