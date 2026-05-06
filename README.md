@@ -1,33 +1,31 @@
-# IBM Workforce Analytics — AI Impact on UK Labour Market
+# AI Recruitment Fairness — UK Job Market
 
-Analysis of AI-driven job displacement and skill gaps across the UK, 
-with reskilling recommendations for IBM SkillsBuild.
+MSc Dissertation: A mixed-methods investigation into fairness and bias 
+in AI-powered recruitment systems, with a focus on international 
+graduates in the UK labour market.
 
 ## Overview
-This project analyses UK Government workforce datasets to identify which 
-sectors, regions, and demographics are most at risk from AI-driven 
-automation, and maps these to IBM SkillsBuild training recommendations.
+This dissertation examines whether automated CV screening tools treat 
+candidates fairly, with particular focus on the role of visa sponsorship 
+status as a structural barrier in the UK hiring process.
 
-## Dataset
-UK Government Labour Market Statistics — spanning 4 nations, 11 regions, 
-37 districts, 22 industries, and 9 occupation types.
-
-## Procedure
-- Built ETL pipelines in Python (Pandas) and Power Query to extract, 
-  clean, and transform raw workforce data
-- Performed exploratory analysis to identify skill gaps and employment 
-  trends by region, gender, industry, and occupation
-- Built an interactive Power BI semantic model using a 1:M relational 
-  schema with DAX functions for aggregations and filtering
-- Produced dashboards filterable by region, gender, job type, and year
-- Delivered strategic reskilling recommendations aligned to IBM SkillsBuild
+## Methodology
+Mixed-methods design combining:
+- CV Audit Experiment: 36 synthetic CVs systematically varying visa type, 
+  name origin, and keyword optimisation, assessed through a simulated ATS 
+  across Technology, Finance, and Healthcare sectors
+- Perception Survey: 120 job seekers (international and domestic) 
+  surveyed on experiences of fairness, transparency, and automated hiring
 
 ## Tools
-Python, Pandas, Matplotlib, Power BI, Power Query, DAX, Microsoft Excel
-
+Python, R, Statistical Analysis, Survey Design
 
 ## Key Finding
-Health and Social Work is projected to see the highest net job growth 
-from AI by 2035, while Manufacturing and Engineering face the greatest 
-displacement risk. Reskilling programmes should be regionally targeted 
-based on qualification levels and industry concentration.
+Keyword optimisation had the strongest effect on screening outcomes, 
+while visa status showed a modest but present influence. Fairness in 
+recruitment is both technical and experiential. Recommendations include 
+improved ATS transparency, regular algorithmic auditing, and clearer 
+treatment of visa eligibility in job postings.
+
+## Output
+Full dissertation report — University of Bristol, MSc Business Analytics
