@@ -1,4 +1,4 @@
-# AI Recruitment Fairness — UK Job Market
+# Fairness in AI-Powered Recruitment: A Study on Screening Outcomes in the UK Job Market
 
  A mixed-methods investigation into bias and fairness 
 in AI-powered recruitment systems, focusing on international graduates 
