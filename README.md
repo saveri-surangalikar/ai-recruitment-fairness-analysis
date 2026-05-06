@@ -6,7 +6,7 @@ in the UK labour market.
 
 ## Overview
 This approach examines whether automated CV screening tools treat 
-candidates fairly, with particular focus on visa sponsorship status, 
+candidates fairly, with particular focus on visa sponsorship status,  
 name origin, and keyword optimisation as structural barriers in UK hiring.
 It contributes to international debates on algorithmic fairness by 
 identifying visa-related filtering as a neglected dimension absent from 
