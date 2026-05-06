@@ -71,5 +71,4 @@ status is a neglected variable in global algorithmic fairness debates.
 ## Tools
 Python, R, Statistical Analysis, Survey Design
 
-## Output
-Full dissertation — University of Bristol, MSc Business Analytics, 2025
+
